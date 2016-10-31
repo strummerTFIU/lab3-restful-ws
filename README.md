@@ -18,7 +18,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 682531 | JUAN CIRIACO, ÁLVARO
 544393 | LAHOZ EGEA, CRISTINA
 622612 | MARTIN SEGURA, SERGIO
-681061 | MARTÍNEZ MENÉNDEZ, ALBERTO
+681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/Belberus/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Belberus/lab3-restful-ws)
 576307 | MARTÍNEZ PÉREZ, ADRIAN
 540891 | MENENDEZ MOYA, FRANCISCO
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/nebur395/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/nebur395/lab3-restful-ws)
