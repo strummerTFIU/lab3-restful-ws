@@ -32,6 +32,6 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 610344 | SALUEÑA SEDILES, ASIER
 680182 | SANZ ALCAINE, JORGE
 534521 | SANZ VIDAL, AITOR
-618051 | TOLON MARTÍN, CARLOS JAVIER
+618051 | TOLON MARTÍN, CARLOS JAVIER| [test repo](https://github.com/ctolon22/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/ctolon22/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/ctolon22/lab3-restful-ws)
 643821 | VELA GARCÍA, JUAN
 679609 | VIÑUALES SÁNCHEZ, PABLO
