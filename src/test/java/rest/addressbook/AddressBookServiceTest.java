@@ -172,8 +172,8 @@ public class AddressBookServiceTest {
 				.get(1).getName());
 
 		//////////////////////////////////////////////////////////////////////
-		// Verify that POST is well implemented by the service, i.e
-		// test that it is not safe and not idempotent
+		// Verify that GET for collections is well implemented by the service, i.e
+		// test that it is safe and idempotent
 		//////////////////////////////////////////////////////////////////////	
 	
 	}
