@@ -7,7 +7,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 647002 | AGUILAR REQUENA, EDUARDO
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
-612595 | BELTRÁN PIÑOL, VÍCTOR
+612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab3-restful-ws/tree/test) | [![Build Status](https://api.travis-ci.org/Victorbp09/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Victorbp09/lab3-restful-ws)
 683326 | BINTANED BASA, JESÚS
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
