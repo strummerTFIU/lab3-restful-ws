@@ -27,7 +27,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 453948 | NAVARRO CLARAS, MARIO
 647973 | PERALTA MARTÍNEZ, SANTIAGO
 683546 | PÉREZ CANCER, BEATRIZ
-686329 | ROIG JIMENEZ, ANA
+686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/anicacortes/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/anicacortes/lab3-restful-ws)
 559207 | RUEDA MACÍAS, DANIEL
 610344 | SALUEÑA SEDILES, ASIER
 680182 | SANZ ALCAINE, JORGE
