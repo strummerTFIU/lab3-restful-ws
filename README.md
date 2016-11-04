@@ -28,7 +28,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 647973 | PERALTA MARTÍNEZ, SANTIAGO
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/beapc18/lab3-restful-ws)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/anicacortes/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/anicacortes/lab3-restful-ws)
-559207 | RUEDA MACÍAS, DANIEL
+559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/danirueda/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/danirueda/lab3-restful-ws)
 610344 | SALUEÑA SEDILES, ASIER | [test repo](https://github.com/asierhandball/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/asierhandball/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/asierhandball/lab3-restful-ws)
 680182 | SANZ ALCAINE, JORGE
 534521 | SANZ VIDAL, AITOR
