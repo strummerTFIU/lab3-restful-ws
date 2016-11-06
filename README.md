@@ -23,7 +23,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 540891 | MENENDEZ MOYA, FRANCISCO
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/nebur395/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/nebur395/lab3-restful-ws)
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [test repo](https://github.com/luisemz/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/luisemz/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/luisemz/lab3-restful-ws)
-650448 | MURILLO MAGDALENA, JAVIER
+650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/javmurillo/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/javmurillo/lab3-restful-ws)
 453948 | NAVARRO CLARAS, MARIO
 647973 | PERALTA MARTÍNEZ, SANTIAGO
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/beapc18/lab3-restful-ws)
